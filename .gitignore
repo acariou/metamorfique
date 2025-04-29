@@ -128,3 +128,23 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Development wordPress
+
+wordpress/uploads/
+wordpress/plugins/debug-bar/
+wordpress/plugins/log-deprecated-notices/
+wordpress/plugins/theme-check/
+wordpress/plugins/akismet/
+wordpress/plugins/ml-slider/
+wordpress/plugins/monster-widget/
+wordpress/plugins/query-monitor/
+wordpress/plugins/wordpress-importer/
+wordpress/plugins/latest-post/
+wordpress/plugins/slider-blocks/
+wordpress/themes/twentytwenty*/
+
+wordpress/db.php
+wordpress/languages/
+wordpress/languages/themes/
+wordpress/languages/plugins/
